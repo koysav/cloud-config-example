@@ -1,0 +1,7 @@
+/home/vmyronen/git/cloud-config2/customer-manager/src/main/java/com/bslota/customermanager/customer/CustomerRepository.java
+/home/vmyronen/git/cloud-config2/customer-manager/src/main/java/com/bslota/customermanager/infrastructure/exception/NotFoundException.java
+/home/vmyronen/git/cloud-config2/customer-manager/src/main/java/com/bslota/customermanager/customer/CustomerController.java
+/home/vmyronen/git/cloud-config2/customer-manager/src/main/java/com/bslota/customermanager/customer/Customer.java
+/home/vmyronen/git/cloud-config2/customer-manager/src/main/java/com/bslota/customermanager/CustomerManagerApplication.java
+/home/vmyronen/git/cloud-config2/customer-manager/src/main/java/com/bslota/customermanager/infrastructure/exception/BadRequestException.java
+/home/vmyronen/git/cloud-config2/customer-manager/src/main/java/com/bslota/customermanager/customer/CustomerService.java

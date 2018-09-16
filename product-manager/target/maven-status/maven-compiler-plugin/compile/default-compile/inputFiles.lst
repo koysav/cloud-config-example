@@ -1,0 +1,11 @@
+/home/vmyronen/git/cloud-config2/product-manager/src/main/java/com/bslota/productmanager/product/ProductSubscriptionRepository.java
+/home/vmyronen/git/cloud-config2/product-manager/src/main/java/com/bslota/productmanager/product/ProductSubscription.java
+/home/vmyronen/git/cloud-config2/product-manager/src/main/java/com/bslota/productmanager/product/ProductRepository.java
+/home/vmyronen/git/cloud-config2/product-manager/src/main/java/com/bslota/productmanager/product/Product.java
+/home/vmyronen/git/cloud-config2/product-manager/src/main/java/com/bslota/productmanager/infrastructure/exception/BadRequestException.java
+/home/vmyronen/git/cloud-config2/product-manager/src/main/java/com/bslota/productmanager/product/ProductService.java
+/home/vmyronen/git/cloud-config2/product-manager/src/main/java/com/bslota/productmanager/product/ProductConfig.java
+/home/vmyronen/git/cloud-config2/product-manager/src/main/java/com/bslota/productmanager/product/ProductSubscriptionId.java
+/home/vmyronen/git/cloud-config2/product-manager/src/main/java/com/bslota/productmanager/product/ProductController.java
+/home/vmyronen/git/cloud-config2/product-manager/src/main/java/com/bslota/productmanager/infrastructure/exception/NotFoundException.java
+/home/vmyronen/git/cloud-config2/product-manager/src/main/java/com/bslota/productmanager/ProductManagerApplication.java

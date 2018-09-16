@@ -1,0 +1,11 @@
+com/bslota/productmanager/ProductManagerApplication.class
+com/bslota/productmanager/product/ProductRepository.class
+com/bslota/productmanager/product/ProductSubscriptionRepository.class
+com/bslota/productmanager/product/ProductController.class
+com/bslota/productmanager/product/Product.class
+com/bslota/productmanager/infrastructure/exception/BadRequestException.class
+com/bslota/productmanager/product/ProductConfig.class
+com/bslota/productmanager/product/ProductSubscription.class
+com/bslota/productmanager/infrastructure/exception/NotFoundException.class
+com/bslota/productmanager/product/ProductService.class
+com/bslota/productmanager/product/ProductSubscriptionId.class
